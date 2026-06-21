@@ -1,0 +1,17 @@
+{
+  "bmw":               "1.0.0",
+  "chrysler":          "1.0.0",
+  "ford":              "1.0.0",
+  "gm":                "1.0.0",
+  "honda":             "1.0.0",
+  "hyundai":           "1.0.0",
+  "jaguar_land_rover": "1.0.0",
+  "mazda":             "1.0.0",
+  "mercedes_benz":     "1.0.0",
+  "mitsubishi":        "1.0.0",
+  "nissan":            "1.0.0",
+  "subaru":            "1.0.0",
+  "toyota":            "1.0.0",
+  "volkswagen":        "1.0.0",
+  "volvo":             "1.0.0"
+}
